@@ -1,4 +1,4 @@
-# Tool--face-mask-face-parsing
+# Tool:face-mask-face-parsing
 A tool for getting face mask or face parsing by Pytorch.
 
 ## Demo
