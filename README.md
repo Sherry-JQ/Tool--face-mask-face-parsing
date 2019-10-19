@@ -17,4 +17,5 @@ For each input you will get three outputs: *_mask.png, *_mask_bg.png and *_mask_
 
 ## Citation
 [face-parsing](https://github.com/zllrunning/face-parsing.PyTorch)
+
 [BiSeNet](https://github.com/CoinCheung/BiSeNet)
