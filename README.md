@@ -10,12 +10,11 @@ For each input you will get three outputs: *_mask.png, *_mask_bg.png and *_mask_
 
  input <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/input/3.png" width="200">
  
- output1 <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/output/3_mask.png" width="200">
- output2 <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/output/3_mask_bg.png" width="200">
- output3 <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/output/3_mask_parse.png" width="200">
+ output <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/output/3_mask.png" width="200">
+  <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/output/3_mask_bg.png" width="200">
+  <img src="https://github.com/Sherry-JQ/Tool--face-mask-face-parsing/blob/master/output/3_mask_parse.png" width="200">
 
 
 ## Citation
 [face-parsing](https://github.com/zllrunning/face-parsing.PyTorch)
-
 [BiSeNet](https://github.com/CoinCheung/BiSeNet)
